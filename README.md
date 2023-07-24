@@ -42,7 +42,7 @@ This repository contains a collection of my projects.
 
 - Used Streamlit to allow users to invoke OpenAI ChatGPT APIs for 4 features: explain Python, make SQL queries, sentiment analysis, and grammar checking.
 - Incorporated Lotte animations to increase UX and improve the professional look.
-![](/images/gvbot.jpg)
+![](/images/chatgpt.jpg)
 <br>
 
 ## [gvBOT - Upload your PDF and Ask Qs using LLMs 🤖](https://github.com/hi-gv/gvBot---QA-PDF)
