@@ -17,13 +17,6 @@ This repository contains a collection of my projects.
 ![](/images/indeed.png)
 <br>
 
-## [Explored different automated Exploratory data analytics libraries like d-tale, pandas-profiling 📊](https://github.com/hi-gv/Exploratory-Data-Analytics-Tools)
-
-- This Jupyter notebook was starred on GitHub by the creator of the D-tale library.
-- I have explored various automated Exploratory Data Analysis libraries.
-![](/images/eda.jpg)
-<br>
-
 ## [BookmyShow ticket availability WhatsApp alerting for Movie opening 🎥](https://github.com/hi-gv/Whatsapp-Alert-when-tickets-available-on-BookMyShow)
 
 - Real-life use case project to send WhatsApp alerts whenever the booking for the Spiderman movie opens on BookmyShow, as it doesn't provide APIs.
@@ -48,6 +41,13 @@ This repository contains a collection of my projects.
 ## [gvBOT - Upload your PDF and Ask Qs using LLMs 🤖](https://github.com/hi-gv/gvBot---QA-PDF)
 - Used Langchain and OpenAIEmbeddings to allow users to upload PDFs and query a Bot-like interface using Streamlit.
 ![](images/gvbot.jpg)
+<br>
+
+## [Explored different automated Exploratory data analytics libraries like d-tale, pandas-profiling 📊](https://github.com/hi-gv/Exploratory-Data-Analytics-Tools)
+
+- This Jupyter notebook was starred on GitHub by the creator of the D-tale library.
+- I have explored various automated Exploratory Data Analysis libraries.
+![](/images/eda.jpg)
 <br>
 
 Feel free to explore the individual project by clicking for more details and code implementations.
