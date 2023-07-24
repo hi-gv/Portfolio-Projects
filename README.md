@@ -44,7 +44,7 @@ This repository contains a collection of my projects.
 - Used Langchain and OpenAIEmbeddings to allow users to upload PDFs and query a Bot-like interface using Streamlit.
 <br>
 
-Feel free to explore the individual project folders for more details and code implementations.
+Feel free to explore the individual project by clicking for more details and code implementations.
 Let's connect on [LinkedIn](https://www.linkedin.com/in/hi-gv/) 👋
 
 
